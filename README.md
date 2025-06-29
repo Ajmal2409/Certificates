@@ -1,1 +1,1 @@
-# Certificates
+Achieved the ISTQB Certified Tester qualification, demonstrating a solid foundation in software testing principles, techniques, and best practices. This certification reflects my commitment to delivering high-quality, reliable software through structured and effective testing processes.
